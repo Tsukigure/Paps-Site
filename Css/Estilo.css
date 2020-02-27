@@ -57,8 +57,16 @@ color: white;}
   75% {margin-left: -300%}
   100% {margin-left: -300%}
 }
+
 body {
-  background-color: grey;
+ background-image: url(https://el50.files.wordpress.com/2008/05/w_blanconegro_50.jpg);
+ background-size: cover;
+ Background-position: 0px 0px;
+ Background-size: 70% 100%;
+}
+p {
+  line-height: 155%;
+ font-size: 15px;
 }
 #Cuerpo {
   margin: 0 auto;
@@ -115,7 +123,7 @@ a:hover {
 }
 .Column {
     display: table-cell;
-    background-color: Blue;
+    background-color: black;
     text-align: justify;
     padding: 18px;
     outline-width: 3px;
